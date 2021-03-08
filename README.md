@@ -1,2 +1,2 @@
-!!! Github does not load some of the charts from the ipynb so it will be better to use https://nbviewer.jupyter.org/ or you can open this link: https://nbviewer.jupyter.org/github/ZhivkoB3/Heart-failure-prediction/blob/main/Heart%20failure%20prediction.ipynb !!! /n
+!!! Github does not load some of the charts from the ipynb so it will be better to use https://nbviewer.jupyter.org/ or you can open this link: https://nbviewer.jupyter.org/github/ZhivkoB3/Heart-failure-prediction/blob/main/Heart%20failure%20prediction.ipynb !!!
 This repository contains one of the most used machine learning algorithms(Adaboost, Random Forest and SVM). The library used for this is Scikit-learn(SKlearn).
